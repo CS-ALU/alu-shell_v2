@@ -1,8 +1,8 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * main - This is a simple shell created by
- * Marisol Ramirez Henao and David Alejandro Hincapié
- * for Holberton School
+ * Lucy and group
+ * for ALU testing this project
  * Return: 0 if success
  */
 int main(void)
